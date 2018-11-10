@@ -19,7 +19,11 @@
   <!-- - [diff-tools-windows](https://www.git-tower.com/blog/diff-tools-windows/) 各种市面上的Windows比较工具介绍 -->
   
   - [meldmerge](http://meldmerge.org/) 英文, 文件夹、文件比较
-  - [BCompare](http://www.scootersoftware.com/) 中文, 收费, 文件夹、文件比较
+  - [BCompare](http://www.scootersoftware.com/) 中文, 文件夹、文件、表格、map3、图像比较
+    - [BCompare-zh-4.2.8.23479.rar](https://github.com/littleostar-blog/littleostar-blog.github.io/raw/master/files/BCompare-zh-4.2.8.23479.rar)
+    - [key](https://github.com/littleostar-blog/littleostar-blog.github.io/raw/master/files/bcompare-keygen.rar)
+      - [key1](https://www.lanzous.com/i18prgh)
+      - [key2](https://pan.baidu.com/s/1O4RYjtqnWO--xZBTyKDoWQ) t468
   - [winmerge](http://winmerge.org/) 中文, 文件夹、文件比较
   - [kdiff3](http://kdiff3.sourceforge.net/) 英文, 文件夹、文件比较
   - [deltawalker](https://www.deltawalker.com/) 收费
