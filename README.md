@@ -39,6 +39,9 @@
 - javascript 教程
   - [https://wangdoc.com/javascript/index.html](https://wangdoc.com/javascript/index.html)
 
+- WSL Windows上的子系统-Linux
+  - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+
 ---
 
 end
