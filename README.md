@@ -46,6 +46,9 @@
 - Spring Boot Tutorials
   - https://www.javadevjournal.com/spring-boot/
 
+- NPM 中文文档
+  - https://www.kancloud.cn/shellway/npm-doc/199983
+
 ---
 
 end
