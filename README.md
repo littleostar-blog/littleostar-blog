@@ -55,6 +55,8 @@
   - https://www.pcgamer.com/linux-in-windows-10/
   - http://blog.51cto.com/walkerqt/2147985
 
+- Spring Boot Tutorials
+  - https://www.javadevjournal.com/spring-boot/
 
 ---
 
