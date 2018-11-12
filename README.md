@@ -58,6 +58,9 @@
   - Example:
     ```git clone -b develop https://github.com/userName/repositoryName.git```
 
+- Change name of folder when cloning from github?
+  - git clone https://github.com/littleostar-blog/littleostar-blog.github.io.git littleostar-blog-github
+
 ---
 
 ---
