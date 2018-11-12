@@ -52,6 +52,14 @@
 - kotlin 中文文档
   - https://www.kotlincn.net/docs/reference/basic-syntax.html
 
+- How to clone a specific branch in git
+  - In general:
+    ```git clone -b <branch> <remote_repo>```
+  - Example:
+    ```git clone -b develop https://github.com/userName/repositoryName.git```
+
+---
+
 ---
 
 end
