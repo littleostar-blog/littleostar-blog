@@ -61,6 +61,9 @@
 - Change name of folder when cloning from github?
   - git clone https://github.com/littleostar-blog/littleostar-blog.github.io.git littleostar-blog-github
 
+- funny image
+  - https://imgur.com
+
 ---
 
 ---
