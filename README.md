@@ -43,7 +43,7 @@
   - https://www.pcgamer.com/linux-in-windows-10/
   - http://blog.51cto.com/walkerqt/2147985
 
-- Spring Boot Tutorials
+- Spring Boot 教程 (英文)
   - https://www.javadevjournal.com/spring-boot/
 
 - NPM 中文文档
@@ -52,16 +52,16 @@
 - kotlin 中文文档
   - https://www.kotlincn.net/docs/reference/basic-syntax.html
 
-- How to clone a specific branch in git
+- 如何使用git 下载一个指定的分支 [github]
   - In general:
     ```git clone -b <branch> <remote_repo>```
   - Example:
     ```git clone -b develop https://github.com/userName/repositoryName.git```
 
-- Change name of folder when cloning from github?
-  - git clone https://github.com/littleostar-blog/littleostar-blog.github.io.git littleostar-blog-github
+- 如何在 从github下载项目的同时修改名字
+  - git clone https://github.com/组织名/项目名.git 希望文件夹名
 
-- funny image
+- 好笑的 图片网址
   - https://imgur.com
 
 - angular 可视化开发工具
@@ -70,6 +70,10 @@
 - 如何从github项目, 下载指定文件夹
   - http://kinolien.github.io/gitzip/
   - https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo
+
+- Web应用程序的在线编辑器
+  - https://stackblitz.com/
+  - https://codesandbox.io
 
 ---
 
