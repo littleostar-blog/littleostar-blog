@@ -69,6 +69,7 @@
 
 - 如何从github项目, 下载指定文件夹
   - http://kinolien.github.io/gitzip/
+  - https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo
 
 ---
 
