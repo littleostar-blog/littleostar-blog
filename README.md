@@ -67,6 +67,9 @@
 - angular 可视化开发工具
   - https://angulardoc.github.io/#/
 
+- 如何从github项目, 下载指定文件夹
+  - http://kinolien.github.io/gitzip/
+
 ---
 
 ---
