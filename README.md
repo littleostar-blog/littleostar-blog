@@ -99,6 +99,9 @@
 - ecmascript 6 入门-中文文档
   - http://es6.ruanyifeng.com/
 
+- 在线HTML编辑器
+  - KindEditor http://kindeditor.net/about.php
+
 ---
 
 ---
