@@ -96,6 +96,9 @@
     ],
     ```
 
+- ecmascript 6 入门-中文文档
+  - http://es6.ruanyifeng.com/
+
 ---
 
 ---
