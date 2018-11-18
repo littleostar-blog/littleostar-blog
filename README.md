@@ -105,6 +105,9 @@
 - angular+markdown
   - https://github.com/jfcere/ngx-markdown
 
+- angular-markdown-editor
+  - https://github.com/ghiscoding/angular-markdown-editor
+
 - 前端知识网站
   - https://www.awesomes.cn/
 
