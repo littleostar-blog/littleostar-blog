@@ -102,6 +102,9 @@
 - 在线HTML编辑器
   - KindEditor http://kindeditor.net/about.php
 
+- angular+markdown
+  - https://github.com/jfcere/ngx-markdown
+
 ---
 
 ---
