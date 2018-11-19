@@ -102,7 +102,7 @@
 - 在线HTML编辑器
   - KindEditor http://kindeditor.net/about.php
 
-- angular+markdown
+- angular ngx-markdown
   - https://github.com/jfcere/ngx-markdown
 
 - angular-markdown-editor
