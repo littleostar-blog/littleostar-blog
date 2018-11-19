@@ -112,7 +112,11 @@
   - https://www.awesomes.cn/
 
 - Nrwl Extensions for Angular
+  - https://nrwl.io/nx/
   - An open source toolkit for enterprise Angular applications.
+
+- Reactive State for Angular
+  - https://github.com/ngrx/platform
 
 ---
 
