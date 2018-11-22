@@ -138,8 +138,9 @@
     - JSX support
     - Simple component lazy-loading
 
-- es6-typescript/overview/
+- es6-typescript guide
   - https://ng2.codecraft.tv/es6-typescript/overview/
+  - https://codecraft.tv/courses/angular/es6-typescript/overview/
   
 
 ---
