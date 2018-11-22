@@ -14,6 +14,10 @@
   - code => https://github.com/onehungrymind/angular-animations-site
   - version => 4
 
+- Angular Material Design Todo App
+  - code => https://github.com/danielzen/material-todo
+  - version => 4
+
 ---
 
 end
