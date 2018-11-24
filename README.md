@@ -16,8 +16,8 @@
   <!-- - [code.z01.com/v4](http://code.z01.com/v4/) -->
   <!-- - [bootstrap-4-dev/learn/v4/overview](https://www.udemy.com/bootstrap-4-dev/learn/v4/overview) -->
 
-- Windows上的文件 比较工具 Compare4
-  - [BeyondCompare4 免安装激活版](https://github.com/littleostar-blog/littleostar-blog.github.io/raw/master/files/BeyondCompare4.rar)
+<!-- - Windows上的文件 比较工具 Compare4 -->
+  <!-- - [BeyondCompare4 免安装激活版](https://github.com/littleostar-blog/littleostar-blog.github.io/raw/master/files/BeyondCompare4.rar) -->
   
 - markdown语法
   - [markdown](https://daringfireball.net/projects/markdown/)
