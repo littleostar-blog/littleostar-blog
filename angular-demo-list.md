@@ -18,6 +18,12 @@
   - code => https://github.com/danielzen/material-todo
   - version => 4
 
+- angular socket-demo
+  - https://alligator.io/angular/socket-io/
+    - socket.io
+  - code => https://github.com/alligatorio/socket-example
+  - version => 7
+
 ---
 
 end
