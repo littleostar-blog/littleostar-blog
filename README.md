@@ -12,21 +12,14 @@
 - 用于Windows的便携式控制台模拟器
   - [cmder](http://cmder.net/)
 
-<!-- - bootstrap 4.x 中文文档、中文教程 -->
-  <!-- - [code.z01.com/v4](http://code.z01.com/v4/) -->
-  <!-- - [bootstrap-4-dev/learn/v4/overview](https://www.udemy.com/bootstrap-4-dev/learn/v4/overview) -->
 
 <!-- - Windows上的文件 比较工具 Compare4 -->
   <!-- - [BeyondCompare4 免安装激活版](https://github.com/littleostar-blog/littleostar-blog.github.io/raw/master/files/BeyondCompare4.rar) -->
   
-- markdown语法
-  - [markdown](https://daringfireball.net/projects/markdown/)
 
 - 各大网站vip视频免费观看 等 Mac版。付费电影，VIP会员剧等，去广告播放
   - [https://github.com/iodefog/VipVideo](https://github.com/iodefog/VipVideo)
 
-<!-- - javascript 教程 -->
-  <!-- - [https://wangdoc.com/javascript/index.html](https://wangdoc.com/javascript/index.html) -->
 
 - WSL Windows上的子系统-Linux
   - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
@@ -45,12 +38,6 @@
 
 - Spring Boot 教程 (英文)
   - https://www.javadevjournal.com/spring-boot/
-
-- NPM 中文文档
-  - https://www.kancloud.cn/shellway/npm-doc/199983
-
-- kotlin 中文文档
-  - https://www.kotlincn.net/docs/reference/basic-syntax.html
 
 - 如何使用git 下载一个指定的分支 [github]
   - In general:
@@ -79,8 +66,6 @@
   - Project Clarity是一个开源设计系统，它汇集了UX准则，HTML / CSS框架和Angular组件。此存储库包含构建，自定义，测试和部署Clarity所需的一切
     - http://clarity.design
 
-- typescript 官方中文文档
-  - https://www.tslang.cn/docs/handbook/basic-types.html
 
 - node.js 框架
   - express.js
@@ -96,8 +81,6 @@
     ],
     ```
 
-- ecmascript 6 入门-中文文档
-  - http://es6.ruanyifeng.com/
 
 - 在线HTML编辑器
   - KindEditor http://kindeditor.net/about.php
@@ -137,10 +120,6 @@
     - One-way data binding
     - JSX support
     - Simple component lazy-loading
-
-- es6-typescript guide
-  - https://ng2.codecraft.tv/es6-typescript/overview/
-  - https://codecraft.tv/courses/angular/es6-typescript/overview/
   
 
 ---
