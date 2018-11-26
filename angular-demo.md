@@ -17,6 +17,11 @@
   - code => https://github.com/alligatorio/socket-example
   - version => 7
 
+- angular-components-communication
+  - https://medium.com/@mirokoczka/3-ways-to-communicate-between-angular-components-a1e3f3304ecb
+  - code => https://github.com/mkoczka/angular-components-communication
+  - version => 4
+
 ---
 
 end
