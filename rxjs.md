@@ -6,8 +6,10 @@
 
 ---
 
-- https://github.com/staltz/rxmarbles
-- https://github.com/btroncone/learn-rxjs/
+- http://rxmarbles.com/
+  - https://github.com/staltz/rxmarbles
+- https://www.learnrxjs.io/
+  - https://github.com/btroncone/learn-rxjs/
 
 ---
 
