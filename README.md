@@ -104,12 +104,6 @@
 - 使用Angular和NativeScript构建Web和移动应用程序
   - https://scotch.io/tutorials/use-angular-and-nativescript-to-build-a-web-and-mobile-application
 
-- angular-Augury
-  - 什么是Augury
-    - Augury是最常用的Developer Tool扩展，用于在Google Chrome和Mozilla Firefox浏览器中调试和分析Angular应用程序。
-
-  - 为什么要使用Augury？
-    - Augury帮助Angular开发人员通过组件树和可视化调试工具可视化应用程序。开发人员可以立即了解其应用程序结构，更改检测和性能特征。
 
 - https://stenciljs.com/
   - The magical, reusable web component compiler
