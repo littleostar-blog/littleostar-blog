@@ -8,6 +8,7 @@
 - https://apidocs.imgur.com/
 - https://any-api.com/
 - https://developer.gettyimages.com/en/
+- https://www.pexels.com/api
 
 ---
 
