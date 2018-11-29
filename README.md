@@ -85,12 +85,6 @@
 - 在线HTML编辑器
   - KindEditor http://kindeditor.net/about.php
 
-- angular ngx-markdown
-  - https://github.com/jfcere/ngx-markdown
-
-- angular-markdown-editor
-  - https://github.com/ghiscoding/angular-markdown-editor
-
 - 前端知识网站
   - https://www.awesomes.cn/
 
