@@ -23,6 +23,8 @@
   - https://ryanstutorials.net/linuxtutorial/vi.php
   - https://www.pcgamer.com/linux-in-windows-10/
   - http://blog.51cto.com/walkerqt/2147985
+- 各大网站vip视频免费观看 等 Mac版。付费电影，VIP会员剧等，去广告播放
+  - [https://github.com/iodefog/VipVideo](https://github.com/iodefog/VipVideo)
 
 
 ---
