@@ -14,6 +14,13 @@
 - angular-markdown-editor
   - https://github.com/ghiscoding/angular-markdown-editor
 
+- Nrwl Extensions for Angular
+  - https://nrwl.io/nx/
+  - An open source toolkit for enterprise Angular applications.
+
+- Reactive State for Angular
+  - https://github.com/ngrx/platform
+
 ---
 
 ---

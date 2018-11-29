@@ -9,6 +9,9 @@
   - 个人测试效果
     - 开启工具, 直接生成各种模式图, 非常好用的angular分析工具.
 
+- angular 可视化开发工具
+  - https://angulardoc.github.io/#/
+
 
 ---
 
