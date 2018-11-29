@@ -21,10 +21,8 @@
   - [https://github.com/iodefog/VipVideo](https://github.com/iodefog/VipVideo)
 
 
-- WSL Windows上的子系统-Linux
+- Windows Subsystem for Linux
   - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-
-- WSL Windows上的Ubuntu桌面
   - https://www.youtube.com/watch?v=VyyyGkF0bFQ
   - https://www.youtube.com/watch?v=GxeabWuqjLQ
   - https://www.zdnet.com/article/how-to-run-run-the-native-ubuntu-desktop-on-windows-10/
