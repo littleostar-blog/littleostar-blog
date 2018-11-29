@@ -7,8 +7,12 @@
   - https://stackoverflow.com/questions/20281835/how-to-delete-a-folder-with-files-using-java
   - http://opensourceforgeeks.blogspot.in/2014/11/how-to-delete-directory-in-java.html
 
-- https://www.baeldung.com/google-http-client
-- https://www.baeldung.com/java-write-to-file
+- http client
+  - https://www.baeldung.com/google-http-client
+  - https://www.mkyong.com/java/how-to-send-http-request-getpost-in-java/
+
+- write file
+  - https://www.baeldung.com/java-write-to-file
 
 ---
 
