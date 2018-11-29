@@ -19,38 +19,38 @@ localStorage和sessionStorage完成完全相同的事情，并且具有相同的
 创建条目
 使用localStorage.setItem创建键/值对条目，提供键和值：
 
-```
+```typescript
 let key = 'Item 1';
 localStorage.setItem(key, 'Value');
 ```
 
 阅读作品
 使用localStorage.getItem读取条目：
-```
+```typescript
 let myItem = localStorage.getItem(key);
 ```
 
 更新条目
 更新条目就像使用setItem创建一个条目一样，但是已经存在一个密钥：
-```
+```typescript
 localStorage.setItem(key, 'New Value');
 ```
 
 删除条目
 使用removeItem方法删除条目：
-```
+```typescript
 localStorage.removeItem(key);
 ```
 
 清除一切
 以下是清除localStorage中存储的所有内容的方法：
-```
+```typescript
 localStorage.clear();
 ```
 
 存储Json对象
 只能使用localStorage或sessionStorage存储字符串，但您可以使用JSON.stringify存储更复杂的对象，并使用JSON.parse读取它们：
-```
+```typescript
 // Create item:
 let myObj = { name: 'Skip', breed: 'Labrador' };
 localStorage.setItem(key, JSON.stringify(myObj));
@@ -61,7 +61,7 @@ let item = JSON.parse(localStorage.getItem(key));
 
 检查物品
 以下是测试loclaStorage中项目是否存在的方法：
-```
+```typescript
 if (localStorage.length > 0) {
   // We have items
 } else {
@@ -71,7 +71,7 @@ if (localStorage.length > 0) {
 
 检查支持
 通过检查windowStorage是否在window对象上可用来测试localStorage支持：
-```
+```typescript
 if (window.localStorage) {
   // localStorage supported
 }
@@ -79,7 +79,7 @@ if (window.localStorage) {
 
 迭代项目
 localStorage或sessionStorage没有forEach方法，但您可以使用旧的for循环遍历项目：
-```
+```typescript
 for (let i = 0; i < localStorage.length; i++){
   let key = localStorage.key(i);
   let value = localStorage.getItem(key);
