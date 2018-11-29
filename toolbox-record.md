@@ -16,6 +16,7 @@
 - yarn https://yarnpkg.com/zh-Hans/docs/install#windows-stable
 - nodejs https://nodejs.org/en/download/releases/
   - ```npm config set registry https://registry.npm.taobao.org --global```
+  - ```npm i -g @angular/cli@6.2.8```
 
 - webstorm https://www.jetbrains.com/webstorm/
 
