@@ -8,6 +8,7 @@
 
  <!-- - > 使用当前lib, angular项目默认部署至, git Remotes中 Name="origin" 的远程仓库地址 -->
 
+ - 0.0 must use terminal execute above command...
 
  - 0 install lib
    - ```cmd
