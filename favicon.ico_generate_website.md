@@ -13,6 +13,7 @@
 - http://faviconmedia.net/
 - http://www.favicon.pro/
 - https://favicon.io/
+- https://www.favicongenerator.com/
 
 ---
 

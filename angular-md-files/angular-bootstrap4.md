@@ -20,6 +20,12 @@
     4. Restart
     ```
 
+- https://www.intertech.com/Blog/using-bootstrap-4-with-angular/
+  - ```
+    1. npm install bootstrap@latest --save-dev
+    2. @import "~bootstrap/dist/css/bootstrap.css";
+    ```
+
 ---
 
 end
