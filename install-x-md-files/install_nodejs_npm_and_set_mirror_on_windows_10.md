@@ -28,48 +28,27 @@
   ```
 
 - ```cmd
-  C:\WINDOWS\system32>npm config list
+  Microsoft Windows [版本 10.0.17763.134]
+  (c) 2018 Microsoft Corporation。保留所有权利。
+  
+  C:\Windows\system32>npm config list
   ; cli configs
   metrics-registry = "https://registry.npm.taobao.org/"
   scope = ""
-  user-agent = "npm/5.6.0 node/v8.11.3 win32 x64"
-
-  ; globalconfig C:\Users\UserXXX\AppData\Roaming\npm\etc\npmrc
+  user-agent = "npm/6.4.1 node/v10.14.1 win32 x64"
+  
+  ; globalconfig C:\Users\littleOStar\AppData\Roaming\npm\etc\npmrc
+  ELECTRON_MIRROR = "https://npm.taobao.org/mirrors/electron/"
   registry = "https://registry.npm.taobao.org/"
-
+  
   ; builtin config undefined
-  prefix = "C:\\Users\\UserXXX\\AppData\\Roaming\\npm"
-
+  prefix = "C:\\Users\\littleOStar\\AppData\\Roaming\\npm"
+  
   ; node bin location = C:\Program Files\nodejs\node.exe
-  ; cwd = C:\WINDOWS\system32
-  ; HOME = C:\Users\UserXXX
+  ; cwd = C:\Windows\system32
+  ; HOME = C:\Users\littleOStar
   ; "npm config ls -l" to show all defaults.
-
-  C:\WINDOWS\system32>
-  ```
-- ```cmd
-  C:\Windows\system32>yarn config list
-  yarn config v1.7.0
-  info yarn config
-  { 'version-tag-prefix': 'v',
-    'version-git-tag': true,
-    'version-commit-hooks': true,
-    'version-git-sign': false,
-    'version-git-message': 'v%s',
-    'init-version': '1.0.0',
-    'init-license': 'MIT',
-    'save-prefix': '^',
-    'bin-links': true,
-    'ignore-scripts': false,
-    'ignore-optional': false,
-    registry: 'https://registry.npm.taobao.org',
-    'strict-ssl': true,
-    'user-agent': 'yarn/1.7.0 npm/? node/v8.11.3 win32 x64',
-    lastUpdateCheck: 1530898202641 }
-  info npm config
-  {}
-  Done in 0.12s.
-
+  
   C:\Windows\system32>
   ```
 
