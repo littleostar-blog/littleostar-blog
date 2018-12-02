@@ -2,7 +2,7 @@
 ---
 
 - A, npm bootstrap jquery popper.js
-```
+```cmd
 1.  
   npm i --save bootstrap jquery popper.js@^1.14.3
 
@@ -24,7 +24,7 @@
 ```
 
 - B npm bootstrap
-```
+```cmd
 1. 
 	npm install bootstrap@latest --save-dev
 2. 
@@ -36,9 +36,7 @@
 ---
 
 - http://colinstodd.com/blog/post/how-to-install-bootstrap-4-in-angular-6 [A]
-
 - https://www.intertech.com/Blog/using-bootstrap-4-with-angular/ [B]
-
 - https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/ [ALL]
 
 

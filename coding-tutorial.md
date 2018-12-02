@@ -1,11 +1,19 @@
 
 --------------------------------------------------------------------------------
 
+- angular
+  - - https://mdbootstrap.com/education/angular/
+
+--------------------------------------------------------------------------------
+
 - javascript
   - https://wangdoc.com/javascript/basic/introduction.html
     - ecmascript 5
 
-- bootstrap 4.x
+- bootstrap
+  - https://mdbootstrap.com/education/bootstrap/
+
+- bootstrap 4.x zh-cn
   - http://code.z01.com/v4/
   - https://www.udemy.com/bootstrap-4-dev/learn/v4/overview
 
@@ -32,7 +40,7 @@
 
 ---
 
-- Spring Boot 教程 (英文)
+- Spring Boot
   - https://www.javadevjournal.com/spring-boot/
 
 

@@ -9,8 +9,7 @@
 
 - f.lux https://justgetflux.com/
 - bitcomet https://cn.bitcomet.com/achive/
-- 用于Windows的便携式控制台模拟器
-  - [cmder](http://cmder.net/)
+- [cmder](http://cmder.net/)
 - Windows Subsystem for Linux
   - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
   - https://www.youtube.com/watch?v=VyyyGkF0bFQ
@@ -23,8 +22,7 @@
   - https://ryanstutorials.net/linuxtutorial/vi.php
   - https://www.pcgamer.com/linux-in-windows-10/
   - http://blog.51cto.com/walkerqt/2147985
-- 各大网站vip视频免费观看 等 Mac版。付费电影，VIP会员剧等，去广告播放
-  - [https://github.com/iodefog/VipVideo](https://github.com/iodefog/VipVideo)
+ [https://github.com/iodefog/VipVideo](https://github.com/iodefog/VipVideo)
 
 
 ---

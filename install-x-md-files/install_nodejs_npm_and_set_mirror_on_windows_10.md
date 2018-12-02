@@ -11,25 +11,25 @@
       https://docs.npmjs.com/cli/config
       
   - npm
-    - ```
+    - ```cmd
       npm config set registry https://registry.npm.taobao.org --global 
       ```
 
   - yarn
-    - ```
+    - ```cmd
       yarn config set registry https://registry.npm.taobao.org --global
       ```
 
 ##### test config
 
   - 
-    - ```
+    - ```cmd
       npm config list
       yarn config list
       ```
 
   - 
-    - ```
+    - ```cmd
 
       C:\WINDOWS\system32>npm config list
       ; cli configs
@@ -52,7 +52,7 @@
       C:\WINDOWS\system32>
       ```
     
-    - ```
+    - ```cmd
 
       C:\Windows\system32>yarn config list
       yarn config v1.7.0
