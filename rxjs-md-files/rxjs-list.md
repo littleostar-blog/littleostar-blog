@@ -28,6 +28,9 @@
 
 - https://rxjs-dev.firebaseapp.com/
 
+- http://reactivex.io/intro.html
+  - zh-cn https://mcxiaoke.gitbooks.io/rxdocs/content/Observables.html
+
 ---
 
 - https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
