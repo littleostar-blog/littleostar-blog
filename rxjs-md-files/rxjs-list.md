@@ -1,16 +1,27 @@
 
 ---
 
+- blog
+
 - https://netbasal.com/understanding-subjects-in-rxjs-55102a190f3
 - https://blog.angularindepth.com/the-extensive-guide-to-creating-streams-in-rxjs-aaa02baaff9a
 - https://blog.angularindepth.com/rxjs-how-to-observe-an-object-20c47cf51571
 
 ---
 
-- http://rxmarbles.com/ 5.x
+- 5.x
+
+- http://rxmarbles.com/
   - https://github.com/staltz/rxmarbles
+
+---
+
+- 6.x
+
 - https://www.learnrxjs.io/
   - https://github.com/btroncone/learn-rxjs/
+- http://reactivex.io/rxjs/manual/index.html
+- https://rxjs-dev.firebaseapp.com/
 
 ---
 
