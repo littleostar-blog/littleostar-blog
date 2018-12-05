@@ -7,7 +7,7 @@
 
 ---
 
-- http://rxmarbles.com/
+- http://rxmarbles.com/ 5.x
   - https://github.com/staltz/rxmarbles
 - https://www.learnrxjs.io/
   - https://github.com/btroncone/learn-rxjs/
