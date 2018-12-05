@@ -14,13 +14,18 @@
 - http://rxmarbles.com/
   - https://github.com/staltz/rxmarbles
 
+- https://www.learnrxjs.io/
+  - https://github.com/btroncone/learn-rxjs/
+  - zh-cn - https://rxjs-cn.github.io/learn-rxjs-operators/operators/transformation/reduce.html
+
+
 ---
 
 - 6.x
 
-- https://www.learnrxjs.io/
-  - https://github.com/btroncone/learn-rxjs/
 - http://reactivex.io/rxjs/manual/index.html
+  - zh-cn https://cn.rx.js.org/class/es6/Observable.js~Observable.html#instance-method-max
+
 - https://rxjs-dev.firebaseapp.com/
 
 ---
