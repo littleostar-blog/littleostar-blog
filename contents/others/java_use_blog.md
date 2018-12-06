@@ -22,6 +22,14 @@
   - https://www.inf.unibz.it/~calvanese/teaching/04-05-ip/lecture-notes/uni08/node11.html
   - https://stackoverflow.com/questions/1158777/rename-a-file-using-java
   
+- file copy
+    - https://www.journaldev.com/861/java-copy-file
+    - https://stackoverflow.com/questions/6214703/copy-entire-directory-contents-to-another-directory
+    - http://commons.apache.org/proper/commons-io/javadocs/api-release/org/apache/commons/io/FileUtils.html#copyDirectory(java.io.File,%20java.io.File)l
+    - https://www.mkyong.com/java/how-to-copy-directory-in-java/
+    - https://howtodoinjava.com/java/io/how-to-copy-directories-in-java/
+
+
 
 ---
 
