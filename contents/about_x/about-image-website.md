@@ -1,7 +1,7 @@
 
 ---
 
-- 好笑的 图片网址
+- funny image website
   - https://imgur.com
 
 ---

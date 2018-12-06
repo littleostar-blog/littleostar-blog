@@ -1,4 +1,3 @@
-#### on windows install nodejs yarn and set mirror
 
 ##### nodejs yarn, downlaod and install
 - download
@@ -28,9 +27,6 @@
   ```
 
 - ```cmd
-  Microsoft Windows [版本 10.0.17763.134]
-  (c) 2018 Microsoft Corporation。保留所有权利。
-  
   C:\Windows\system32>npm config list
   ; cli configs
   metrics-registry = "https://registry.npm.taobao.org/"

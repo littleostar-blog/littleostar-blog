@@ -1,16 +1,18 @@
 
 ---
 
-- angular-Augury
-  - 什么是Augury
-    - Augury是最常用的Developer Tool扩展，用于在Google Chrome和Mozilla Firefox浏览器中调试和分析Angular应用程序。
-  - 为什么要使用Augury？
-    - Augury帮助Angular开发人员通过组件树和可视化调试工具可视化应用程序。开发人员可以立即了解其应用程序结构，更改检测和性能特征。
-  - 个人测试效果
-    - 开启工具, 直接生成各种模式图, 非常好用的angular分析工具.
+- Angular Augury
+  - https://augury.rangle.io/
+    - A Chrome and Firefox Dev Tools extension for debugging Angular applications.
+    - What is Augury
+      - Augury is the most used Developer Tool extension for debugging and profiling Angular applications inside the Google Chrome and Mozilla Firefox browsers.
+    - Why Use Augury?
+      - Augury helps Angular developers visualize the application through component trees, and visual debugging tools. Developers get immediate insight into their application structure, change detection and performance characteristics.
 
-- angular 可视化开发工具
+- angular angulardoc
   - https://angulardoc.github.io/#/
+    - Angular development tooling
+    - Architectural analysis, visualization, code generation, and many more!
 
 
 ---

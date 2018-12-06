@@ -1,6 +1,8 @@
 
 ---
 
+- takeWhile
+
 - stackoverflow
   - https://stackoverflow.com/questions/51072691/rxjs6-timer-not-being-triggered-in-angular-6-subscription-to-observable-timer-pl
     - ```typescript
@@ -13,7 +15,7 @@
         null, 
         () => console.log('Done!')
       );
-      // output: 3 2 1 0
+      // output: 3 2 1 Done!
       ```
 
 - https://reactive.how/countdown

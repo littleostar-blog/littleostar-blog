@@ -1,7 +1,7 @@
 
 ---
 
-- 前端知识网站
+- front-end knowledge website
   - https://www.awesomes.cn/
 
 ---
