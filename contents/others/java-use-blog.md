@@ -14,6 +14,15 @@
 - write file
   - https://www.baeldung.com/java-write-to-file
 
+- file filefilter
+  - https://stackoverflow.com/questions/5603966/how-to-make-filefilter-in-java
+  - https://examples.javacodegeeks.com/core-java/io/filenamefilter/java-file-filter-example/
+  
+- file rename
+  - https://www.inf.unibz.it/~calvanese/teaching/04-05-ip/lecture-notes/uni08/node11.html
+  - https://stackoverflow.com/questions/1158777/rename-a-file-using-java
+  
+
 ---
 
 end
