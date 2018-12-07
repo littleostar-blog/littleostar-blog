@@ -1,7 +1,7 @@
 
 ---
 
-- How to delete directory in Java
+- delete directory in Java
   - http://roufid.com/how-to-delete-folder-recursively-in-java/#1-_native_java
   - http://www.mkyong.com/java/how-to-delete-directory-in-java/
   - https://stackoverflow.com/questions/20281835/how-to-delete-a-folder-with-files-using-java
@@ -11,7 +11,7 @@
   - https://www.baeldung.com/google-http-client
   - https://www.mkyong.com/java/how-to-send-http-request-getpost-in-java/
 
-- write file
+- file write
   - https://www.baeldung.com/java-write-to-file
 
 - file filefilter
@@ -28,7 +28,14 @@
     - http://commons.apache.org/proper/commons-io/javadocs/api-release/org/apache/commons/io/FileUtils.html#copyDirectory(java.io.File,%20java.io.File)l
     - https://www.mkyong.com/java/how-to-copy-directory-in-java/
     - https://howtodoinjava.com/java/io/how-to-copy-directories-in-java/
+    - https://www.javadevjournal.com/java/java-copy-file-directory/
 
+- date time
+    - https://www.javatpoint.com/java-get-current-date
+    - https://beginnersbook.com/2013/05/current-date-time-in-java/
+    - https://www.mkyong.com/java/java-how-to-get-current-date-time-date-and-calender/
+    - https://stackoverflow.com/questions/5175728/how-to-get-the-current-date-time-in-java#
+    
 
 
 ---
