@@ -48,6 +48,9 @@
 
 ---
 
+- web
+  - http://www.w3school.com.cn/web/index.asp
+
 - Spring Boot
   - https://www.javadevjournal.com/spring-boot/
 

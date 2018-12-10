@@ -20,9 +20,10 @@
          "gh-bd": "ng b --aot --prod --base-href=https://org_name.github.io/repo_name/", 
          ```
        - ```cmd 
-         "gh-pb": "npx ngh --dir=dist/local_project_name", 
+         "gh-pb": "npx ngh --dir=dist/local_project_name --no-silent ", 
          ```
          - --branch=master [optional]
+            - --branch default: gh-pages
          - --no-silent [optional]
     
      - 2 check
