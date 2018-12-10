@@ -7,6 +7,10 @@
 
 ---
 
+- https://stackoverflow.com/questions/7890160/embed-website-into-my-site
+
+---
+
 - A
 - ```typescript
   export class MainBodyComponent implements OnInit {
@@ -26,7 +30,7 @@
   ```
 
 - B
-- ```
+- ```typescript
   @Pipe({
     name: 'safePage'
   })
