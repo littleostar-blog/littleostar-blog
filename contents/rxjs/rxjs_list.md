@@ -16,7 +16,7 @@
 
 - https://www.learnrxjs.io/
   - https://github.com/btroncone/learn-rxjs/
-  - zh-cn - https://rxjs-cn.github.io/learn-rxjs-operators/operators/transformation/reduce.html
+  - zh-cn https://rxjs-cn.github.io/learn-rxjs-operators/operators/transformation/reduce.html
 
 
 ---
