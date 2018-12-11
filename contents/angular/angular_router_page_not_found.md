@@ -18,7 +18,7 @@
       templateUrl: './page-not-found.component.html',
       styleUrls: ['./page-not-found.component.css']
     })
-    export class PageNotFoundComponent implements OnInit, OnDestroy {
+    export class PageNotFoundComponent implements OnInit {
     
       constructor(
         private router: Router
@@ -26,10 +26,6 @@
     
       ngOnInit() {
         timer(0).subscribe(() => this.router.navigateByUrl(''));
-      }
-    
-      ngOnDestroy(): void {
-        this.router = null;
       }
     
     }
