@@ -2,8 +2,7 @@
 ---
 
 - system
-  - windows 10
-    - software
+  - windows 10 software
 
 ---
 
@@ -11,17 +10,15 @@
 
 - bitcomet https://cn.bitcomet.com/achive/
 
-- [cmder](http://cmder.net/)
+- cmder http://cmder.net/
 
-- Windows Subsystem for Linux
-  - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+- Windows Subsystem for Linux https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
-- > [.net framewordk 3.5 offline install exe](https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=25150)
+- .net framewordk 3.5 offline install exe https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=25150
 
 ---
 
-- [https://github.com/iodefog/VipVideo](https://github.com/iodefog/VipVideo)
-
+- https://github.com/iodefog/VipVideo https://github.com/iodefog/VipVideo
 
 ---
 
@@ -30,11 +27,10 @@
 - yarn https://yarnpkg.com/zh-Hans/docs/install#windows-stable
 
 - nodejs https://nodejs.org/en/download/releases/
-  - ```npm config set registry https://registry.npm.taobao.org --global```
-    - https://www.npmjs.com/package/@angular/cli?activeTab=versions
-    - ```npm i -g @angular/cli@6.2.8```
 
 - webstorm https://www.jetbrains.com/webstorm/
+
+- IntelliJ IDEA https://www.jetbrains.com/idea/
 
 ---
 

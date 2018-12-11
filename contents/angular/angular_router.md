@@ -1,7 +1,7 @@
 
 ---
 
-- blog
+- list
     - https://www.intertech.com/Blog/angular-router-tutorial-setting-up-routing-in-your-application/
     - https://www.techiediaries.com/angular-routing-lazy-loading-loadchildren/
     - https://blog.angular-university.io/angular2-router/
@@ -9,7 +9,14 @@
       - https://medium.com/coding-blocks/angular-routing-made-easy-part-2-94a6764db89e
     - https://appdividend.com/2017/09/23/angular-router-tutorial-example/
     - https://www.techiediaries.com/angular-router/
-
+    
+- un read
+    - https://scotch.io/tutorials/routing-angular-2-single-page-apps-with-the-component-router
+    - https://www.sitepoint.com/component-routing-angular-router/
+    - https://www.tutorialspoint.com/angular2/angular2_routing.htm
+    
+    
+    
 ---
 
 end
