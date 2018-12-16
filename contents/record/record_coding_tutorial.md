@@ -2,8 +2,11 @@
 --------------------------------------------------------------------------------
 
 - angular
-  - - https://mdbootstrap.com/education/angular/
+  - https://mdbootstrap.com/education/angular/
 
+- angular2
+    - https://angular-2-training-book.rangle.io/
+    - zh-cn https://www.bookstack.cn/books/Angular2-Training-Book
 --------------------------------------------------------------------------------
 
 - javascript
