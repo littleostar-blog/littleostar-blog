@@ -9,7 +9,9 @@
       - https://medium.com/coding-blocks/angular-routing-made-easy-part-2-94a6764db89e
     - https://appdividend.com/2017/09/23/angular-router-tutorial-example/
     - https://www.techiediaries.com/angular-router/
-    
+    - https://yakovfain.com/2015/11/11/angular-2-passing-data-to-routes/
+    - https://yakovfain.com/2015/11/02/angular-2-router-high-level-overview/
+
 - un read
     - https://scotch.io/tutorials/routing-angular-2-single-page-apps-with-the-component-router
     - https://www.sitepoint.com/component-routing-angular-router/

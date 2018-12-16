@@ -11,6 +11,8 @@
 - http://www.cross-platform-blog.com/nodejs/typescript/nodejs-a-rest-web-api-expressjs-with-typescript/
 - https://itnext.io/building-restful-web-apis-with-node-js-express-mongodb-and-typescript-part-1-2-195bdaf129cf
 - https://medium.com/factory-mind/websocket-node-js-express-step-by-step-using-typescript-725114ad5fe4
+- https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d
+
 
 ---
 
