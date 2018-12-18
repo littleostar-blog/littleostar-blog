@@ -6,7 +6,14 @@
 
 - angular2
     - https://angular-2-training-book.rangle.io/
-    - zh-cn https://www.bookstack.cn/books/Angular2-Training-Book
+    - zh-cn 
+        - https://www.bookstack.cn/books/Angular2-Training-Book
+    - unread
+        - https://www.sitepoint.com/angular-2-tutorial/
+
+- angular5
+    - https://codecraft.tv/courses/angular/quickstart/overview/
+
 --------------------------------------------------------------------------------
 
 - javascript

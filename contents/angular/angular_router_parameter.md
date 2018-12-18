@@ -2,12 +2,18 @@
 ---
 
 - https://scotch.io/tutorials/handling-route-parameters-in-angular-v2
-- https://codecraft.tv/courses/angular/routing/parameterised-routes/
 - https://stackoverflow.com/questions/40275862/how-to-get-parameter-on-angular2-route-in-angular-way
+
+- unread
 - https://alligator.io/angular/query-parameters/
 - https://medium.com/@christo8989/angular-6-url-parameters-860db789db85
 - https://toddmotto.com/angular-parent-routing-params
 
+---
+
+- https://codecraft.tv/courses/angular/routing/parameterised-routes/
+- https://angular-2-training-book.rangle.io/handout/routing/routeparams.html
+- zh-cn https://zhangchen915.github.io/Angular2-Training-Book/content/Routing/routeparams.html
 
 ---
 
