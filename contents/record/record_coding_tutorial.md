@@ -14,6 +14,9 @@
 - angular5
     - https://codecraft.tv/courses/angular/quickstart/overview/
 
+- angular6
+    - zh http://www.semlinker.com/ng-base-tutorial/
+
 --------------------------------------------------------------------------------
 
 - javascript
@@ -26,6 +29,7 @@
 - bootstrap 4.x zh-cn
   - http://code.z01.com/v4/
   - https://www.udemy.com/bootstrap-4-dev/learn/v4/overview
+  - https://bootstrap.hexschool.com/docs/4.1/getting-started/introduction/
 
 - typescript
   - zh-cn https://www.tslang.cn/docs/handbook/basic-types.html
@@ -39,6 +43,10 @@
   - https://codecraft.tv/courses/angular/es6-typescript/overview/
 
 --------------------------------------------------------------------------------
+
+- eslint nc
+  - http://eslint.cn/
+  
 
 - gitbook
   - http://www.oxxostudio.tw/articles/201502/gitbook.html

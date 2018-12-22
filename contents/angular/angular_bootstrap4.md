@@ -8,7 +8,30 @@
 	- http://colinstodd.com/blog/post/how-to-install-bootstrap-4-in-angular-6 [A]
 	- https://www.intertech.com/Blog/using-bootstrap-4-with-angular/ [B]
 	- https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/ [ALL]
+    - https://www.talkingdotnet.com/add-bootstrap-4-to-angular-6-application/ [ALL]
 
+---
+
+- code
+
+- A, npm i --save jquery bootstrap
+
+  - install
+    ```
+    npm i --save jquery bootstrap
+    ```
+  - update angular.json
+    ```json
+     "styles": [
+        "node_modules/bootstrap/dist/css/bootstrap.min.css"
+     ],
+     "scripts": [
+        "node_modules/jquery/dist/jquery.min.js",
+        "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+     ]
+    ```
+
+---
 
 ---
 
