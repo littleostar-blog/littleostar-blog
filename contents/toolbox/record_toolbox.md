@@ -28,6 +28,12 @@
   - sumatra pdf
     - https://www.sumatrapdfreader.org/download-free-pdf-viewer.html
   
+  - mpc be
+    - https://sourceforge.net/projects/mpcbe/
+  
+  - 7z
+    - https://sparanoid.com/lab/7z/
+      
 ---
 
   - https://github.com/iodefog/VipVideo https://github.com/iodefog/VipVideo
@@ -37,7 +43,14 @@
 ##### software
 
 - developer
-
+  
+  - chrome
+    - offline download 
+      - https://www.google.com/intl/zh-CN/chrome/thank-you.html?standalone=1&statcb=1&installdataindex=empty
+      - https://www.google.com/intl/zh-CN/chrome/?standalone=1
+    - online download        
+      - https://www.google.com/chrome/
+  
   - git 
     - https://git-scm.com/download/win
     - https://gitforwindows.org/

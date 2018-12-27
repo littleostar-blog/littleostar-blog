@@ -9,6 +9,12 @@
 	- https://www.intertech.com/Blog/using-bootstrap-4-with-angular/ [B]
 	- https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/ [ALL]
     - https://www.talkingdotnet.com/add-bootstrap-4-to-angular-6-application/ [ALL]
+    - https://www.techiediaries.com/angular-bootstrap/ [A]
+    - https://www.techiediaries.com/angular-bootstrap-tutorial/ [A]
+    - https://medium.com/@beeman/tutorial-styling-angular-cli-v6-apps-with-bootstrap-8d4f8ea5adae [B]
+
+- useless
+    - https://codeburst.io/getting-started-with-angular-7-and-bootstrap-4-styling-6011b206080 [useless]
 
 ---
 
