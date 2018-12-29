@@ -33,14 +33,24 @@
   
   - 7z
     - https://sparanoid.com/lab/7z/
-      
+  
+  - windows system download tool
+    - https://www.techworld.com/download/operating-systems-distros/microsoft-windows-office-iso-download-tool-733-3330892/
+    - https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-And-office-iso-download-tool
+    
+  - kms tool
+    - http://forum.ru-board.com/topic.cgi?forum=2&topic=5328#1
+    
+  - adobe pro dc
+    - https://helpx.adobe.com/download-install/kb/acrobat-downloads.html [offline download page]
+  
 ---
 
   - https://github.com/iodefog/VipVideo https://github.com/iodefog/VipVideo
 
 ---
 
-##### software
+##### software dev
 
 - developer
   
@@ -61,15 +71,21 @@
   - nodejs 
     - https://nodejs.org/en/download/releases/
 
+  - jdk need-subscribe
+    - https://www.oracle.com/technetwork/java/javase/downloads/index.html
+  
+  - openjdk
+    - https://github.com/littleostar-toolbox/openjdk_download_and_introduce
+
   - webstorm 
     - https://www.jetbrains.com/webstorm/
-  
-  - jdk
-    - https://www.oracle.com/technetwork/java/javase/downloads/index.html
     
   - IntelliJ IDEA 
     - https://www.jetbrains.com/idea/
-
+  
+  - genuitec angular-ide [terrible]
+    - https://www.genuitec.com/products/angular-ide/download/
+    
 ---
 
 end

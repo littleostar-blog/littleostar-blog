@@ -25,6 +25,8 @@
 - angular-socket-io-tutorial/
   - https://tutorialedge.net/typescript/angular/angular-socket-io-tutorial/
 
+- https://github.com/rmroot/ng-example
+
 ---
 
 end

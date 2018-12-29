@@ -37,6 +37,7 @@
 
 - ecmascript 6
   - http://es6.ruanyifeng.com/
+  - video https://www.codecasts.com/series/es6-from-scratch/episodes/1
 
 - es6-typescript guide
   - https://ng2.codecraft.tv/es6-typescript/overview/
