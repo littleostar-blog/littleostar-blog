@@ -72,6 +72,10 @@
 
 - Spring Boot
   - https://www.javadevjournal.com/spring-boot/
+  - https://www.mkyong.com/tutorials/spring-boot-tutorials/
+
+- spring
+  - https://www.baeldung.com/rest-with-spring-series
 
 - expressjs
   - https://expressjs.com/zh-cn/starter/basic-routing.html

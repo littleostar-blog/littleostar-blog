@@ -54,6 +54,9 @@
 
 - developer
   
+  - wampserver
+    - https://sourceforge.net/projects/wampserver/
+  
   - chrome
     - offline download 
       - https://www.google.com/intl/zh-CN/chrome/thank-you.html?standalone=1&statcb=1&installdataindex=empty
@@ -83,6 +86,9 @@
   - IntelliJ IDEA 
     - https://www.jetbrains.com/idea/
   
+  - bcompare 3 / 4
+
+    
   - genuitec angular-ide [terrible]
     - https://www.genuitec.com/products/angular-ide/download/
     

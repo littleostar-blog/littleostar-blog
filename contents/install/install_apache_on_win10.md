@@ -1,19 +1,26 @@
 
 ---
 
+#### introduce
+
+- https://httpd.apache.org/docs/2.4/platform/windows.html
+
 #### Reference
 
   > https://www.sitepoint.com/how-to-install-apache-on-windows/
 
+#### download apache
 
-#### download and install apache
+- https://www.apachehaus.com/cgi-bin/download.plx
+- https://www.apachelounge.com/download/
+
+#### install apache
 
   - 1 download
     
-    - [apachelounge](https://www.apachelounge.com/download/)
-    
+    - apachelounge
       - this is not office exe
-      <img src="https://github.com/littleostar-blog/littleostar-blog-files/blob/master/image_for/install_apache_on_windows_10/apache4.PNG?raw=true" width="600px" />
+      - <img src="https://github.com/littleostar-blog/littleostar-blog-files/blob/master/image_for/install_apache_on_windows_10/apache4.PNG?raw=true" width="600px" />
   
   - 2 unzip apache24
   

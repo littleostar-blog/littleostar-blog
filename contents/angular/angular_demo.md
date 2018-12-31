@@ -22,10 +22,15 @@
   - https://github.com/mkoczka/angular-components-communication
   - 4
 
-- angular-socket-io-tutorial/
-  - https://tutorialedge.net/typescript/angular/angular-socket-io-tutorial/
+---
 
-- https://github.com/rmroot/ng-example
+- un deal
+    - angular-socket-io-tutorial/
+      - https://tutorialedge.net/typescript/angular/angular-socket-io-tutorial/
+    
+    - https://github.com/rmroot/ng-example
+    - http://code-adda.com/2018/05/deploy-angular-app-on-tomcat-server/
+    - https://grokonez.com/frontend/angular/work-angular-routing-spring-boot-angular-4
 
 ---
 
