@@ -44,6 +44,9 @@
   - adobe pro dc
     - https://helpx.adobe.com/download-install/kb/acrobat-downloads.html [offline download page]
   
+  - apkpure.com
+    - apk download (need vpn)
+  
 ---
 
   - https://github.com/iodefog/VipVideo https://github.com/iodefog/VipVideo
