@@ -1,24 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"-->
+          <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+          <!--xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">-->
 <settings>
+  <!-- localRepository
+   | The path to the local repository maven will use to store artifacts.
+   |
+   | Default: ${user.home}/.m2/repository
+  <localRepository>/path/to/local/repo</localRepository>
+  -->
+
+  <pluginGroups>
+  </pluginGroups>
+
+  <proxies>
+  </proxies>
+
+  <servers>
+  </servers>
 
   <mirrors>
-<!--     <mirror>
-      <id>UK</id>
-      <name>UK Central</name>
-      <url>http://uk.maven.org/maven2</url>
-      <mirrorOf>central</mirrorOf>
-    </mirror> -->
 	<mirror>
-	  <id>alimaven</id>
-	  <name>aliyun maven</name>
-	  <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
-	  <mirrorOf>central</mirrorOf>        
+		<id>aliyunmaven</id>
+		<mirrorOf>*</mirrorOf>
+		<name>阿里云公共仓库</name>
+		<url>https://maven.aliyun.com/repository/public</url>
 	</mirror>
-<!-- 	<mirror>
-	  <id>central.maven.org</id>
-	  <name>central.maven.org</name>
-	  <url>http://central.maven.org/maven2/</url>
-	  <mirrorOf>central</mirrorOf>        
-	</mirror> -->
   </mirrors>
+
+  <profiles>
+  </profiles>
 
 </settings>
