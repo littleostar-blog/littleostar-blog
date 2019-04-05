@@ -27,4 +27,10 @@
 
 ---
 
+##### myself openjdk download
+
+https://github.com/littleostar-toolbox/openjdk_download_and_introduce
+
+---
+
 end
